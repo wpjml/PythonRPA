@@ -1,6 +1,8 @@
 import time
 import browser_automation
 
+# テストテスト
+
 karatu_browser = browser_automation.BrowserAutomation()
 kumakou_browser = browser_automation.BrowserAutomation()
 
