@@ -1,5 +1,4 @@
 import time
-import restart_computer
 import browser_automation
 
 karatu_browser = browser_automation.BrowserAutomation()
